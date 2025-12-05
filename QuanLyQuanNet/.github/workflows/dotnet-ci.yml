@@ -1,0 +1,52 @@
+name: .NET Build and Test
+
+# Khi nào workflow sẽ chạy
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+  
+# Các công việc sẽ thực hiện
+jobs:
+  build:
+    # Chạy trên Windows (phù hợp với Visual Studio)
+    runs-on: windows-latest
+    
+    steps:
+    # Bước 1: Lấy code từ repository
+    - name: Checkout code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    
+    # Bước 2: Cài đặt .NET SDK
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: |
+          6.0.x
+          7.0.x
+          8.0.x
+    
+    # Bước 3: Restore các package
+    - name: Restore dependencies
+      run: dotnet restore
+    
+    # Bước 4: Build solution
+    - name: Build solution
+      run: dotnet build --configuration Release --no-restore
+    
+    # Bước 5: Chạy Unit Tests
+    - name: Run unit tests
+      run: dotnet test --verbosity normal --no-build --configuration Release
+    
+    # Bước 6: Tạo artifact (tuỳ chọn)
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v3
+      if: success()
+      with:
+        name: build-output
+        path: |
+          **/bin/Release/
+          **/publish/
