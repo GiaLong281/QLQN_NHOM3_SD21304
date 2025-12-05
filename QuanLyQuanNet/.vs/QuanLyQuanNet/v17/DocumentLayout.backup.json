@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\gui_qlqn.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\gui_qlqn.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\.github\\workflows\\dotnet-ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.github\\workflows\\dotnet-ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -70,8 +74,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUI_QLQN.Tests",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj",
+              "RelativeToolTip": "GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T12:16:31.347Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "dotnet-ci.yml",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\.github\\workflows\\dotnet-ci.yml",
               "RelativeDocumentMoniker": ".github\\workflows\\dotnet-ci.yml",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ThanhToanTestDataHelper.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToanTestDataHelper.cs",
               "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThanhToanTestDataHelper.cs",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ThanhToan_BUSTests.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToan_BUSTests.cs",
               "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThanhToan_BUSTests.cs",
@@ -132,11 +149,12 @@
               "RelativeToolTip": "GUI_QLQN.Tests\\ThanhToan_BUSTests.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAwwKQAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:34:56.088Z"
+              "WhenOpened": "2025-11-24T08:34:56.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ThanhToanDAL_Adapter.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToanDAL_Adapter.cs",
               "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThanhToanDAL_Adapter.cs",
@@ -144,11 +162,12 @@
               "RelativeToolTip": "GUI_QLQN.Tests\\ThanhToanDAL_Adapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:33:05.182Z"
+              "WhenOpened": "2025-11-24T08:33:05.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ThanhToanBUS_Wrapper.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToanBUS_Wrapper.cs",
               "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThanhToanBUS_Wrapper.cs",
@@ -156,11 +175,12 @@
               "RelativeToolTip": "GUI_QLQN.Tests\\ThanhToanBUS_Wrapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:32:46.455Z"
+              "WhenOpened": "2025-11-24T08:32:46.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IThanhToanDAL_Test.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\IThanhToanDAL_Test.cs",
               "RelativeDocumentMoniker": "GUI_QLQN.Tests\\IThanhToanDAL_Test.cs",
@@ -168,11 +188,12 @@
               "RelativeToolTip": "GUI_QLQN.Tests\\IThanhToanDAL_Test.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:32:31.304Z"
+              "WhenOpened": "2025-11-24T08:32:31.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ThanhToan_DTO.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\DTO_QuanLyQuanNet\\ThanhToan_DTO.cs",
               "RelativeDocumentMoniker": "DTO_QuanLyQuanNet\\ThanhToan_DTO.cs",
@@ -180,11 +201,12 @@
               "RelativeToolTip": "DTO_QuanLyQuanNet\\ThanhToan_DTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:31:16.535Z"
+              "WhenOpened": "2025-11-24T08:31:16.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FrmQuanLyThanhToan.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\FrmQuanLyThanhToan.cs",
               "RelativeDocumentMoniker": "GUI_QLQN\\FrmQuanLyThanhToan.cs",
@@ -192,11 +214,12 @@
               "RelativeToolTip": "GUI_QLQN\\FrmQuanLyThanhToan.cs",
               "ViewState": "AgIAAN4AAAAAAAAAAAAqwPMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:30:58.332Z"
+              "WhenOpened": "2025-11-24T08:30:58.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ThongKeTestDataHelper.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKeTestDataHelper.cs",
               "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThongKeTestDataHelper.cs",
@@ -204,11 +227,12 @@
               "RelativeToolTip": "GUI_QLQN.Tests\\ThongKeTestDataHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:28:20.204Z"
+              "WhenOpened": "2025-11-24T08:28:20.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "frmThongKe.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\frmThongKe.cs",
               "RelativeDocumentMoniker": "GUI_QLQN\\frmThongKe.cs",
@@ -216,11 +240,12 @@
               "RelativeToolTip": "GUI_QLQN\\frmThongKe.cs",
               "ViewState": "AgIAAHcAAAAAAAAAAAAQwKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:18:55.379Z"
+              "WhenOpened": "2025-11-24T08:18:55.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ThongKe_BUSTests.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKe_BUSTests.cs",
               "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThongKe_BUSTests.cs",
@@ -228,11 +253,12 @@
               "RelativeToolTip": "GUI_QLQN.Tests\\ThongKe_BUSTests.cs",
               "ViewState": "AgIAADABAAAAAAAAAAAYwFsBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:15:29.033Z"
+              "WhenOpened": "2025-11-24T08:15:29.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IThongKeDAL_Test.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\IThongKeDAL_Test.cs",
               "RelativeDocumentMoniker": "GUI_QLQN.Tests\\IThongKeDAL_Test.cs",
@@ -240,11 +266,12 @@
               "RelativeToolTip": "GUI_QLQN.Tests\\IThongKeDAL_Test.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:13:05.525Z"
+              "WhenOpened": "2025-11-24T08:13:05.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ThongKeBUS_Wrapper.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKeBUS_Wrapper.cs",
               "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThongKeBUS_Wrapper.cs",
@@ -252,11 +279,12 @@
               "RelativeToolTip": "GUI_QLQN.Tests\\ThongKeBUS_Wrapper.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwDoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:11:26.12Z"
+              "WhenOpened": "2025-11-24T08:11:26.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "NhanVienDAL_Adapter.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\NhanVienDAL_Adapter.cs",
               "RelativeDocumentMoniker": "GUI_QLQN.Tests\\NhanVienDAL_Adapter.cs",
@@ -264,11 +292,12 @@
               "RelativeToolTip": "GUI_QLQN.Tests\\NhanVienDAL_Adapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T07:49:47.626Z"
+              "WhenOpened": "2025-11-24T07:49:47.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ThongKeDAL_Adapter.cs",
               "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKeDAL_Adapter.cs",
               "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThongKeDAL_Adapter.cs",
@@ -276,7 +305,8 @@
               "RelativeToolTip": "GUI_QLQN.Tests\\ThongKeDAL_Adapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T07:48:57.18Z"
+              "WhenOpened": "2025-11-24T07:48:57.18Z",
+              "EditorCaption": ""
             }
           ]
         }

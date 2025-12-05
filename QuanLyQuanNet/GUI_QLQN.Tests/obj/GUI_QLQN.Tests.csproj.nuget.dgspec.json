@@ -88,6 +88,10 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[5.2.0, )"
+            },
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
             }
           },
           "imports": [
@@ -228,6 +232,10 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[5.2.0, )"
+            },
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
