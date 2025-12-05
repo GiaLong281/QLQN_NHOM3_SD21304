@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\gui_qlqn\\ucdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|solutionrelative:gui_qlqn\\ucdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\thanhtoantestdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\thanhtoantestdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|solutionrelative:gui_qlqn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\thanhtoan_bustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\thanhtoan_bustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\gui_qlqn\\frmquanlyloaimay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|solutionrelative:gui_qlqn\\frmquanlyloaimay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\thanhtoandal_adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\thanhtoandal_adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\gui_qlqn\\frmquanlyloaimay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|solutionrelative:gui_qlqn\\frmquanlyloaimay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\thanhtoanbus_wrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\thanhtoanbus_wrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\ithanhtoandal_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\ithanhtoandal_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BA7A2B-87A7-4843-98C8-854678715164}|DTO_QuanLyQuanNet\\DTO_QuanLyQuanNet.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\dto_quanlyquannet\\thanhtoan_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BA7A2B-87A7-4843-98C8-854678715164}|DTO_QuanLyQuanNet\\DTO_QuanLyQuanNet.csproj|solutionrelative:dto_quanlyquannet\\thanhtoan_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn\\frmquanlythanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|solutionrelative:gui_qlqn\\frmquanlythanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\thongketestdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\thongketestdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\thongke_bustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\thongke_bustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\thongkedal_adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\thongkedal_adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\nhanviendal_adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\nhanviendal_adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\thongkebus_wrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\thongkebus_wrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn.tests\\ithongkedal_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C805C5-BA0C-D3FE-FB7E-3CBF2631D524}|GUI_QLQN.Tests\\GUI_QLQN.Tests.csproj|solutionrelative:gui_qlqn.tests\\ithongkedal_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|solutionrelative:gui_qlqn\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +66,164 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThanhToanTestDataHelper.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToanTestDataHelper.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThanhToanTestDataHelper.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToanTestDataHelper.cs",
+              "RelativeToolTip": "GUI_QLQN.Tests\\ThanhToanTestDataHelper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:36:03.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThanhToan_BUSTests.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToan_BUSTests.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThanhToan_BUSTests.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToan_BUSTests.cs",
+              "RelativeToolTip": "GUI_QLQN.Tests\\ThanhToan_BUSTests.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwKQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:34:56.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThanhToanDAL_Adapter.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToanDAL_Adapter.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThanhToanDAL_Adapter.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToanDAL_Adapter.cs",
+              "RelativeToolTip": "GUI_QLQN.Tests\\ThanhToanDAL_Adapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:33:05.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThanhToanBUS_Wrapper.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToanBUS_Wrapper.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThanhToanBUS_Wrapper.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThanhToanBUS_Wrapper.cs",
+              "RelativeToolTip": "GUI_QLQN.Tests\\ThanhToanBUS_Wrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:32:46.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IThanhToanDAL_Test.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\IThanhToanDAL_Test.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\IThanhToanDAL_Test.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\IThanhToanDAL_Test.cs",
+              "RelativeToolTip": "GUI_QLQN.Tests\\IThanhToanDAL_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:32:31.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThanhToan_DTO.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\DTO_QuanLyQuanNet\\ThanhToan_DTO.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyQuanNet\\ThanhToan_DTO.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\DTO_QuanLyQuanNet\\ThanhToan_DTO.cs",
+              "RelativeToolTip": "DTO_QuanLyQuanNet\\ThanhToan_DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:31:16.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmQuanLyThanhToan.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\FrmQuanLyThanhToan.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN\\FrmQuanLyThanhToan.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\FrmQuanLyThanhToan.cs",
+              "RelativeToolTip": "GUI_QLQN\\FrmQuanLyThanhToan.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAqwPMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:30:58.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThongKeTestDataHelper.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKeTestDataHelper.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThongKeTestDataHelper.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKeTestDataHelper.cs",
+              "RelativeToolTip": "GUI_QLQN.Tests\\ThongKeTestDataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:28:20.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmThongKe.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN\\frmThongKe.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\frmThongKe.cs",
+              "RelativeToolTip": "GUI_QLQN\\frmThongKe.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAQwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:18:55.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThongKe_BUSTests.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKe_BUSTests.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThongKe_BUSTests.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKe_BUSTests.cs",
+              "RelativeToolTip": "GUI_QLQN.Tests\\ThongKe_BUSTests.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAYwFsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:15:29.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IThongKeDAL_Test.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\IThongKeDAL_Test.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\IThongKeDAL_Test.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\IThongKeDAL_Test.cs",
+              "RelativeToolTip": "GUI_QLQN.Tests\\IThongKeDAL_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:13:05.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThongKeBUS_Wrapper.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKeBUS_Wrapper.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThongKeBUS_Wrapper.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKeBUS_Wrapper.cs",
+              "RelativeToolTip": "GUI_QLQN.Tests\\ThongKeBUS_Wrapper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:11:26.12Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -49,52 +245,34 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\Program.cs",
-              "RelativeDocumentMoniker": "GUI_QLQN\\Program.cs",
-              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\Program.cs",
-              "RelativeToolTip": "GUI_QLQN\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "NhanVienDAL_Adapter.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\NhanVienDAL_Adapter.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\NhanVienDAL_Adapter.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\NhanVienDAL_Adapter.cs",
+              "RelativeToolTip": "GUI_QLQN.Tests\\NhanVienDAL_Adapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:30:31.101Z",
+              "WhenOpened": "2025-11-24T07:49:47.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ucDichVu.cs [Design]",
-              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\ucDichVu.cs",
-              "RelativeDocumentMoniker": "GUI_QLQN\\ucDichVu.cs",
-              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\ucDichVu.cs [Design]",
-              "RelativeToolTip": "GUI_QLQN\\ucDichVu.cs [Design]",
+              "DocumentIndex": 9,
+              "Title": "ThongKeDAL_Adapter.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKeDAL_Adapter.cs",
+              "RelativeDocumentMoniker": "GUI_QLQN.Tests\\ThongKeDAL_Adapter.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN.Tests\\ThongKeDAL_Adapter.cs",
+              "RelativeToolTip": "GUI_QLQN.Tests\\ThongKeDAL_Adapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:30:30.547Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmQuanLyLoaiMay.cs",
-              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "RelativeDocumentMoniker": "GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "RelativeToolTip": "GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAIwIUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:25:50.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmQuanLyLoaiMay.cs [Design]",
-              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "RelativeDocumentMoniker": "GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\FrmQuanLyLoaiMay.cs [Design]",
-              "RelativeToolTip": "GUI_QLQN\\FrmQuanLyLoaiMay.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:25:39.728Z"
+              "WhenOpened": "2025-11-24T07:48:57.18Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>disable</Nullable>
+		<!-- SỬA THÀNH disable -->
+
+		<IsPackable>false</IsPackable>
+		<IsTestProject>true</IsTestProject>
+
+		<!-- THÊM CÁC DÒNG NÀY -->
+		<OutputType>Library</OutputType>
+		<UseWindowsForms>false</UseWindowsForms>
+		<UseWPF>false</UseWPF>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="coverlet.collector" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.3" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+		<PackageReference Include="Moq" Version="4.20.72" />
+		<PackageReference Include="NUnit" Version="4.4.0" />
+		<PackageReference Include="NUnit.Analyzers" Version="3.9.0" />
+		<PackageReference Include="NUnit3TestAdapter" Version="5.2.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\BLL_QuanLyQuanNet\BLL_QuanLyQuanNet.csproj" />
+		<ProjectReference Include="..\CoreLibs\CoreLibs.csproj" />
+		<ProjectReference Include="..\DAL_QuanLyQuanNet\DAL_QuanLyQuanNet.csproj" />
+		<ProjectReference Include="..\DTO_QuanLyQuanNet\DTO_QuanLyQuanNet.csproj" />
+
+		<!-- COMMENT HOẶC XÓA DÒNG NÀY -->
+		<!-- <ProjectReference Include="..\GUI_QLQN\GUI_QLQN.csproj" /> -->
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="NUnit.Framework" />
+	</ItemGroup>
+
+</Project>

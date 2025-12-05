@@ -3,6 +3,8 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using DAL_QuanLyQuanNet;
+using DTO_QuanLyQuanNet;
 
 public class NhanVien_DAL
 {
