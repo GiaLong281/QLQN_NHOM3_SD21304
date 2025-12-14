@@ -12,7 +12,7 @@ jobs:
     
     defaults:
       run:
-        working-directory: ./QuanLyQuanNet
+        working-directory: ./QuanlyQuanNet
     
     steps:
     - uses: actions/checkout@v4
@@ -25,15 +25,14 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     
-    # CHỈ BUILD CÁC PROJECT QUAN TRỌNG (không build GUI_QLQN)
     - name: Build core projects
       run: |
-        dotnet build DTO_QuanLyQuanNet --configuration Release --no-restore
-        dotnet build DAL_QuanLyQuanNet --configuration Release --no-restore
-        dotnet build BLL_QuanLyQuanNet --configuration Release --no-restore
-        dotnet build CoreLibs --configuration Release --no-restore
-        dotnet build Apps --configuration Release --no-restore
-        dotnet build GUI_QLQN.Tests --configuration Release --no-restore
+        dotnet build DTO_QuanlyQuanNet --configuration Release --no-restore
+        dotnet build DAL_QuanlyQuanNet --configuration Release --no-restore
+        dotnet build BLL_QuanlyQuanNet --configuration Release --no-restore
+        dotnet build UTIL_QuanlyQuanNet --configuration Release --no-restore
+    
+    # Không build GUI_QLON và không chạy test
     
     # TEST VẪN CHẠY ĐƯỢC (không cần GUI_QLQN build)
     - name: Run tests
