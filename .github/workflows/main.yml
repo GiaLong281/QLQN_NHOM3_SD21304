@@ -30,7 +30,7 @@ jobs:
         dotnet build DTO_QuanlyQuanNet --configuration Release --no-restore
         dotnet build DAL_QuanlyQuanNet --configuration Release --no-restore
         dotnet build BLL_QuanlyQuanNet --configuration Release --no-restore
-        dotnet build UTIL_QuanlyQuanNet --configuration Release --no-restore
+      
     
     # Không build GUI_QLON và không chạy test
     
